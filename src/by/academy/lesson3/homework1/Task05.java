@@ -1,6 +1,6 @@
 package by.academy.lesson3.homework1;
 
-public class Task5 {
+public class Task05 {
     public static void main(String[] args) {
         double length = 50;
         double height;

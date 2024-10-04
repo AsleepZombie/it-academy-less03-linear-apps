@@ -1,6 +1,6 @@
 package by.academy.lesson3.homework1;
 
-public class Task4 {
+public class Task04 {
     public static void main(String[] args) {
         double lil, big, result;
         int n = 45, m = 12;
