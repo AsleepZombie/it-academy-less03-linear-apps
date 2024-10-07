@@ -2,6 +2,9 @@ package by.academy.lesson3.homework1;
 
 public class Task10 {
     public static void main(String[] args) {
+        doMath();
+    }
+    public static void doMath() {
         int len = 8;
         System.out.println("длинна ребра куба: " + len);
 

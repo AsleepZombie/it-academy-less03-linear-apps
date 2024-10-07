@@ -2,6 +2,9 @@ package by.academy.lesson3.homework1;
 
 public class Task09 {
     public static void main(String[] args) {
+        doMath();
+    }
+    public static void doMath() {
         int i = 4567;
         int result = 1;
 
@@ -9,7 +12,6 @@ public class Task09 {
             result = result * (i % 10);
             i = i / 10;
         }
-
         System.out.println(result);
     }
 }
